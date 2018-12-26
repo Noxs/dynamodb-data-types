@@ -1,7 +1,7 @@
 # DynamoDb-Data-Types
 
 [![Build Status](https://travis-ci.org/Noxs/dynamodb-data-types.svg)](https://travis-ci.org/Noxs/dynamodb-data-types)
-[![Coverage Status](https://coveralls.io/repos/github/Noxs/dynamodb-data-types/badge.svg?branch=master)](https://coveralls.io/github/Noxs/dynamodb-data-types?branch=master)branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/Noxs/dynamodb-data-types/badge.svg?branch=master)](https://coveralls.io/github/Noxs/dynamodb-data-types?branch=master)
 
 This utility helps represent AWS DynamoDb data types. It converts
 JavaScript objects into objects as required by DynamoDb.

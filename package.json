@@ -1,6 +1,6 @@
 {
-  "name": "dynamodb-data-types",
-  "version": "3.0.1",
+  "name": "smash-dynamodb-mapper",
+  "version": "1.0.0",
   "description": "A utility to help represent Amazon DynamoDB Data Types.",
   "main": "./lib/dynamodb-data-types.js",
   "bin": {
@@ -21,9 +21,14 @@
     "name": "Kayomarz",
     "email": "kayomarz@gmail.com"
   },
+  "contributors": [
+    {
+      "name": "Noxs"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/kayomarz/dynamodb-data-types.git"
+    "url": "https://github.com/Noxs/dynamodb-data-types.git"
   },
   "scripts": {
     "test": "npm run test_ && npm run test-preserve-arrays",
