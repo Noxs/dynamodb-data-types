@@ -1,6 +1,6 @@
 {
   "name": "smash-dynamodb-mapper",
-  "version": "1.0.0",
+  "version": "3.1.0",
   "description": "A utility to help represent Amazon DynamoDB Data Types.",
   "main": "./lib/dynamodb-data-types.js",
   "bin": {
